@@ -32,4 +32,5 @@
 | ch | х |
 | ai | ай |
 
+---
 [&#9652;](../index.md) [&#9656;](./02_verb_konjugation.md)

@@ -20,4 +20,5 @@
 | 14 | der R<u>ei</u>s | рис
 | 15 | der Saft | сок
 
+---
 [&#9666;](./02_verb_konjugation.md) [&#9652;](../index.md) 
