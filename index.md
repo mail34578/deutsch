@@ -8,7 +8,10 @@
 - [Часть 2: Глаголы. Читаем. Запоминаем. Спрягаем.](./unterichte/teil_2/02.0_lesen_lernen_konjugieren.md)
   1. [Читаем. Упражняемся. Запоминаем.](./unterichte/teil_2/02.1_lesen_aussprechen_lernen.md)
   2. [Обобщение](./unterichte/teil_2/02.x_zusammenfassung.md)
+- [успех](./tmp/erfolg.md)
 - материалы
   * [50 самых употребимых глаголов](./woerter/verben/50-heufigsten-verben.md)
+  * [Базовые слова](./woerter/grundwortschatz.md)
+- [видеоуроки](./materialien/video.md)
 - книги
   * [Anna, Berlin](./buecher/anna_berlin.md)
